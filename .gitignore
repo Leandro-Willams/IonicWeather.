@@ -47,7 +47,6 @@ yarn-error.log
 # Visual Studio Code
 # Ignorar arquivos temporários, binários ou específicos de IDEs
 # .vscode/*
-.vscode/
 node_modules/
 dist/
 *.log
