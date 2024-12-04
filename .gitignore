@@ -45,7 +45,13 @@ yarn-error.log
 *.sublime-workspace
 
 # Visual Studio Code
+# Ignorar arquivos temporários, binários ou específicos de IDEs
 # .vscode/*
+node_modules/
+dist/
+*.log
+*.dat
+
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
