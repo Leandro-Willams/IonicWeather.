@@ -1,4 +1,5 @@
-Descrição do Projeto:  Uma aplicação de monitoramento climático, onde o usuário pode visualizar as condições climáticas atuais e previsões  de diferentes cidades, utilizando uma API de clima pública
+Descrição do Projeto:  Uma aplicação de monitoramento climático, onde o usuário pode visualizar as condições climáticas atuais e previsões de diferentes cidades, utilizando uma API de clima pública
+
 
 Como baixar o repositório: Para baixar um repositório do GitHub, siga esses passos:
 
@@ -15,7 +16,7 @@ cd nome-do-repositorio
 Agora você tem o repositório no seu computador!
 
 
-Pré requisitos: Envolvem uma combinação de aspectos técnicos, como a integração com fontes de dados externas, o desenvolvimento de uma infraestrutura robusta e segura, e a implementação de funcionalidades que atendam às necessidades dos usuários.Confira alguns requisitos a seguir; 
+Pré requisitos: Envolvem uma combinação de aspectos técnicos, como a integração com fontes de dados externas, o desenvolvimento de uma infraestrutura robusta e segura, e a implementação de funcionalidades que atendam às necessidades dos usuários.Confira alguns dos nossos pré-requisitos a seguir; 
 
 1.Fontes de Dados Climáticos:
 A base de qualquer aplicação de monitoramento de clima é ter acesso a dados climáticos precisos e atualizados. Esses dados podem ser obtidos de várias fontes:
