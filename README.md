@@ -1,6 +1,6 @@
 # IonicWeather
 
-Equipe: Anne (Scrum Master), Laysa (Dev), Leandro (Gerente de configuração), Luisa (Documentadora), Thânus (Documentador), Williame (Dev).
+Aluno: Leandro (Gerente de configuração)
 
 Descrição do Projeto: Uma aplicação de monitoramento climático, onde o usuário pode visualizar as condições climáticas atuais e previsões de diferentes cidades, utilizando uma API de clima pública
 
